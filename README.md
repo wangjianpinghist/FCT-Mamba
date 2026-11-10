@@ -1,2 +1,2 @@
-# FACT-Mamba
-FACT-Mamba is an EEG classification framework integrating condition-aware signed graphs, hierarchical Mamba, and factorized decoding for TS, ADHD, and comorbidity recognition.
+# FCT-Mamba
+ We propose FCT-Mamba (Factorized Condition-Aware Temporal Mamba) for four-class classification of typically developing controls (TDC), TS, ADHD, and TS+ADHD using task-based EEG.
