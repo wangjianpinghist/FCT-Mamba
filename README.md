@@ -90,7 +90,4 @@ starts = session_window_starts()
 subject_probabilities = aggregate_subject_probabilities(sequence_logits)
 ```
 
-## Scope
-
-This archive contains the network definition only. It excludes participant data, pretrained weights, training/validation loops, quality-supervision target generation, experiment management, and visualization scripts. Useful predictions require trained model parameters.
 
